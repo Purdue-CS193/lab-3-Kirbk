@@ -8,7 +8,7 @@ public class BuggyUtilClient {
         System.out.println("Out: " +
         StringUtils.makePurdueUsername("Sean", "Flannery"));
 
-        System.out.println("ASDF");
+        System.out.println("ASDF1");
     }
 }
 
